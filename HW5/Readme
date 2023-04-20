@@ -1,0 +1,5 @@
+Note:
+For Task 2, if every thread_num is printed inside the loop, 
+the running time would exceed time limit set on HPC Nova,
+so that I just write the program that only get thread num,
+but not print and collect running time of the program. 

@@ -1,0 +1,62 @@
+Downloading https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz to ../../data/cifar-10-python.tar.gz
+100%
+170498071/170498071 [00:03<00:00, 38381614.53it/s]
+Extracting ../../data/cifar-10-python.tar.gz to ../../data/
+Epoch [1/11], Step [100/500] Loss: 1.6789
+Epoch [1/11], Step [200/500] Loss: 1.4360
+Epoch [1/11], Step [300/500] Loss: 1.3850
+Epoch [1/11], Step [400/500] Loss: 1.2086
+Epoch [1/11], Step [500/500] Loss: 1.0340
+Epoch [2/11], Step [100/500] Loss: 1.0387
+Epoch [2/11], Step [200/500] Loss: 0.9287
+Epoch [2/11], Step [300/500] Loss: 1.1603
+Epoch [2/11], Step [400/500] Loss: 1.2808
+Epoch [2/11], Step [500/500] Loss: 0.9351
+Epoch [3/11], Step [100/500] Loss: 0.9702
+Epoch [3/11], Step [200/500] Loss: 0.8399
+Epoch [3/11], Step [300/500] Loss: 0.9281
+Epoch [3/11], Step [400/500] Loss: 0.7549
+Epoch [3/11], Step [500/500] Loss: 1.0923
+Epoch [4/11], Step [100/500] Loss: 0.8923
+Epoch [4/11], Step [200/500] Loss: 0.7701
+Epoch [4/11], Step [300/500] Loss: 0.7732
+Epoch [4/11], Step [400/500] Loss: 0.5807
+Epoch [4/11], Step [500/500] Loss: 0.7651
+Epoch [5/11], Step [100/500] Loss: 0.8495
+Epoch [5/11], Step [200/500] Loss: 0.5834
+Epoch [5/11], Step [300/500] Loss: 0.6564
+Epoch [5/11], Step [400/500] Loss: 0.5384
+Epoch [5/11], Step [500/500] Loss: 0.7349
+Epoch [6/11], Step [100/500] Loss: 0.5053
+Epoch [6/11], Step [200/500] Loss: 0.7103
+Epoch [6/11], Step [300/500] Loss: 0.9090
+Epoch [6/11], Step [400/500] Loss: 0.6380
+Epoch [6/11], Step [500/500] Loss: 0.7456
+Epoch [7/11], Step [100/500] Loss: 0.5205
+Epoch [7/11], Step [200/500] Loss: 0.5735
+Epoch [7/11], Step [300/500] Loss: 0.5016
+Epoch [7/11], Step [400/500] Loss: 0.4461
+Epoch [7/11], Step [500/500] Loss: 0.6009
+Epoch [8/11], Step [100/500] Loss: 0.5355
+Epoch [8/11], Step [200/500] Loss: 0.6041
+Epoch [8/11], Step [300/500] Loss: 0.4798
+Epoch [8/11], Step [400/500] Loss: 0.5374
+Epoch [8/11], Step [500/500] Loss: 0.5207
+Epoch [9/11], Step [100/500] Loss: 0.4734
+Epoch [9/11], Step [200/500] Loss: 0.6670
+Epoch [9/11], Step [300/500] Loss: 0.4700
+Epoch [9/11], Step [400/500] Loss: 0.4288
+Epoch [9/11], Step [500/500] Loss: 0.6514
+Epoch [10/11], Step [100/500] Loss: 0.4747
+Epoch [10/11], Step [200/500] Loss: 0.5082
+Epoch [10/11], Step [300/500] Loss: 0.4756
+Epoch [10/11], Step [400/500] Loss: 0.4015
+Epoch [10/11], Step [500/500] Loss: 0.4259
+Epoch [11/11], Step [100/500] Loss: 0.7394
+Epoch [11/11], Step [200/500] Loss: 0.5679
+Epoch [11/11], Step [300/500] Loss: 0.4866
+Epoch [11/11], Step [400/500] Loss: 0.3276
+Epoch [11/11], Step [500/500] Loss: 0.4648
+Training time is
+3315.6036264896393
+Accuracy of the model on the test images: 81.53 %

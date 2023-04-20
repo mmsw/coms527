@@ -1,0 +1,29 @@
+Files already downloaded and verified
+Epoch [1/5], Step [100/500] Loss: 1.6720
+Epoch [1/5], Step [200/500] Loss: 1.4448
+Epoch [1/5], Step [300/500] Loss: 1.2363
+Epoch [1/5], Step [400/500] Loss: 1.2819
+Epoch [1/5], Step [500/500] Loss: 1.1628
+Epoch [2/5], Step [100/500] Loss: 0.8628
+Epoch [2/5], Step [200/500] Loss: 0.9263
+Epoch [2/5], Step [300/500] Loss: 0.7862
+Epoch [2/5], Step [400/500] Loss: 0.9908
+Epoch [2/5], Step [500/500] Loss: 1.0517
+Epoch [3/5], Step [100/500] Loss: 0.8944
+Epoch [3/5], Step [200/500] Loss: 0.8626
+Epoch [3/5], Step [300/500] Loss: 0.7665
+Epoch [3/5], Step [400/500] Loss: 0.7393
+Epoch [3/5], Step [500/500] Loss: 0.7204
+Epoch [4/5], Step [100/500] Loss: 0.7967
+Epoch [4/5], Step [200/500] Loss: 0.7473
+Epoch [4/5], Step [300/500] Loss: 0.5457
+Epoch [4/5], Step [400/500] Loss: 0.7241
+Epoch [4/5], Step [500/500] Loss: 0.7127
+Epoch [5/5], Step [100/500] Loss: 0.5346
+Epoch [5/5], Step [200/500] Loss: 0.7893
+Epoch [5/5], Step [300/500] Loss: 0.5610
+Epoch [5/5], Step [400/500] Loss: 0.5768
+Epoch [5/5], Step [500/500] Loss: 0.7256
+Training time is
+1454.4068639278412
+Accuracy of the model on the test images: 72.49 %
